@@ -11,7 +11,7 @@
             "#0E0E0F"
         ],
         "ANDROID_RIPPLE": [
-            "#E5A5B224"
+            "#A2B4E224"
         ],
         "BACKGROUND_ACCENT": [
             "#141415"
@@ -26,7 +26,7 @@
             "#0f0f10"
         ],
         "BACKGROUND_MENTIONED": [
-            "#E5A5B215"
+            "#A2B4E215"
         ],
         "BG_BASE_TERTIARY": [
             "#040405"
@@ -38,7 +38,7 @@
             "#09090A"
         ],
         "BG_BRAND": [
-            "#E5A5B295"
+            "#A2B4E295"
         ],
         "BG_SURFACE_RAISED": [
             "#0E0E0F"
@@ -53,7 +53,7 @@
             "#0E0E0F"
         ],
         "CHANNEL_ICON": [
-            "#E5A5B265"
+            "#A2B4E265"
         ],
         "EMBED_BACKGROUND": [
             "#111011"
@@ -152,7 +152,7 @@
             "#f23f431a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#E5A5B214"
+            "#A2B4E214"
         ]
     },
     "rawColors": {
