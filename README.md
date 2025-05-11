@@ -18,3 +18,5 @@ A collection of dark themes with colorful accents for Revenge
 - Darkened Acid: https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Acid_min.json
 
 - Darkened Blossom: https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Blossom_min.json
+
+- Darkened Benitoite: https://raw.githubusercontent.com/Aria710/Darkened-Collection-Plus/refs/heads/main/Darkened_Benitoite.json
