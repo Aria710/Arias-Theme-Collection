@@ -1,6 +1,6 @@
 {
-    "name": "Eden",
-    "description": "A dark theme based on Take Me Back To Eden by Sleep Token.",
+    "name": "Benitoite",
+    "description": "A dark theme based on Benitoite from Land of The Lustrous.",
     "authors": [
         {
             "name": "Aria710"
@@ -8,91 +8,91 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#0DODOC"
+            "#0E0E0F"
         ],
         "ANDROID_RIPPLE": [
-            "#B6A99124"
+            "#7379B224"
         ],
         "BACKGROUND_ACCENT": [
-            "#0DODOC"
+            "#141415"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#8c8c8c12"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0DODOC"
+            "#09090A"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0DODOC"
+            "#0f0f10"
         ],
         "BACKGROUND_MENTIONED": [
-            "#B6A99115"
+            "#7379B215"
         ],
         "BG_BASE_TERTIARY": [
-            "#0DODOC"
+            "#040405"
         ],
         "BG_BASE_PRIMARY": [
-            "#0DODOC"
+            "#09090A"
         ],
         "BG_BASE_SECONDARY": [
-            "#0DODOC"
+            "#09090A"
         ],
         "BG_BRAND": [
-            "#B6A99195"
+            "#7379B295"
         ],
         "BG_SURFACE_RAISED": [
-            "#0DODOC"
+            "#0E0E0F"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#0DODOC"
+            "#0B0B0C"
         ],
         "CARD_PRIMARY_BG": [
-            "#0DODOC"
+            "#0E0E0F"
         ],
         "CARD_SECONDARY_BG": [
-            "#0DODOC"
+            "#0E0E0F"
         ],
         "CHANNEL_ICON": [
-            "#B6A99165"
+            "#7379B265"
         ],
         "EMBED_BACKGROUND": [
-            "#0DODOC"
+            "#101011"
         ],
         "EMBED_BACKGROUND_ALTERNATE": [
-            "#0DODOC"
+            "#101011"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#B6A991"
+            "#7379B2"
         ],
         "INTERACTIVE_MUTED": [
             "#262627"
         ],
         "INTERACTIVE_NORMAL": [
-            "#B6A991"
+            "#7379B2"
         ],
         "PANEL_BG": [
-            "#0DODOC"
+            "#0C0C0D"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#B6A991"
+            "#7379B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#B6A991"
+            "#7379B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#B6A991"
+            "#7379B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#B6A991"
+            "#7379B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#B6A991"
+            "#7379B2"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#B6A991"
+            "#7379B2"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
@@ -104,28 +104,28 @@
             "#b5bac1"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#B6A991"
+            "#7379B2"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#B6A991"
+            "#7379B2"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
-            "#B6A991"
+            "#7379B2"
         ],
         "TEXT_MUTED": [
             "#949ba4"
         ],
         "TEXT_LINK": [
-            "#B6A991"
+            "#7379B2"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#0DODOC"
+            "#0E0E0F"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#0DODOC"
+            "#0E0E0F"
         ],
         "INPUT_BACKGROUND": [
-            "#0DODOC"
+            "#0E0E0F"
         ],
         "TEXT_DANGER": [
             "#F83838"
@@ -152,39 +152,39 @@
             "#f23f431a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#B6A99114"
+            "#7379B214"
         ]
     },
     "rawColors": {
-        "BLUE_345": "#B6A991",
-        "GREEN_430": "#B6A991",
+        "BLUE_345": "#7379B2",
+        "GREEN_430": "#7379B2",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
-        "GREEN_460": "#B6A991",
-        "BRAND_260": "#B6A991",
-        "BRAND_360": "#B6A991",
+        "GREEN_460": "#7379B2",
+        "BRAND_260": "#7379B2",
+        "BRAND_360": "#7379B2",
         "RED_400": "#F83838",
-        "BRAND_500": "#B6A991",
-        "BRAND_560": "#B6A991",
-        "PLUM_13": "#B6A991",
-        "PLUM_14": "#0DODOC",
-        "PLUM_15": "#B6A991",
-        "PLUM_16": "#0DODOC",
-        "PLUM_17": "#0DODOC",
-        "PLUM_18": "#0DODOC",
-        "PLUM_19": "#B6A991",
-        "PLUM_20": "#0DODOC",
-        "PLUM_22": "#0DODOC",
-        "PLUM_24": "#0DODOC",
-        "PRIMARY_500": "#0DODOC",
-        "PRIMARY_600": "#0DODOC",
-        "PRIMARY_660": "#0DODOC",
-        "PRIMARY_700": "#0DODOC",
-        "PRIMARY_800": "#0DODOC"
+        "BRAND_500": "#7379B2",
+        "BRAND_560": "#7379B2",
+        "PLUM_13": "#7379B2",
+        "PLUM_14": "#1D1D21",
+        "PLUM_15": "#7379B2",
+        "PLUM_16": "#1D1D21",
+        "PLUM_17": "#0E0E0F",
+        "PLUM_18": "#101011",
+        "PLUM_19": "#7379B2",
+        "PLUM_20": "#09090A",
+        "PLUM_22": "#0E0E0F",
+        "PLUM_24": "#191919",
+        "PRIMARY_500": "#1D1D1E",
+        "PRIMARY_600": "#0b080d",
+        "PRIMARY_660": "#131314",
+        "PRIMARY_700": "#0f0f10",
+        "PRIMARY_800": "#0B0B0C"
     },
     "spec": 2,
     "plus": {
         "version": 0,
-        "mentionLineColor": "#B6A991"
+        "mentionLineColor": "#7379B2"
     }
 }
