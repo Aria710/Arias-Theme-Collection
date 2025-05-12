@@ -1,0 +1,190 @@
+{
+    "name": "Darkened Benitoite",
+    "description": "A dark theme with blue gem accents.",
+    "authors": [
+        {
+            "name": "Aria710"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#32312C"
+        ],
+        "ANDROID_RIPPLE": [
+            "#D5CFC324"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#32312C"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#8c8c8c12"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#32312C"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#32312C"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#D5CFC315"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#32312C"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#32312C"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#32312C"
+        ],
+        "BG_BRAND": [
+            "#D5CFC395"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#32312C"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#32312C"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#32312C"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#32312C"
+        ],
+        "CHANNEL_ICON": [
+            "#D5CFC365"
+        ],
+        "EMBED_BACKGROUND": [
+            "#32312C"
+        ],
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#32312C"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#D5CFC3"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#262627"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#D5CFC3"
+        ],
+        "PANEL_BG": [
+            "#32312C"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#D5CFC3"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#D5CFC3"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#D5CFC3"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#D5CFC3"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#dbdee1"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#D5CFC3"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#D5CFC3"
+        ],
+        "TEXT_NORMAL": [
+            "#dbdee1"
+        ],
+        "TEXT_PRIMARY": [
+            "#dbdee1"
+        ],
+        "TEXT_SECONDARY": [
+            "#b5bac1"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#D5CFC3"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#D5CFC3"
+        ],
+        "PREMIUM_NITRO_PINK_TEXT": [
+            "#D5CFC3"
+        ],
+        "TEXT_MUTED": [
+            "#949ba4"
+        ],
+        "TEXT_LINK": [
+            "#D5CFC3"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#32312C"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#32312C"
+        ],
+        "INPUT_BACKGROUND": [
+            "#32312C"
+        ],
+        "TEXT_DANGER": [
+            "#F83838"
+        ],
+        "BUTTON_OUTLINE_DANGER_BORDER": [
+            "#F83838"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#f23f431a"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#F83838"
+        ],
+        "STATUS_DANGER": [
+            "#F83838"
+        ],
+        "STATUS_DND": [
+            "#f23f43"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD": [
+            "#f23f430d"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
+            "#f23f431a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#D5CFC314"
+        ]
+    },
+    "rawColors": {
+        "BLUE_345": "#D5CFC3",
+        "GREEN_430": "#D5CFC3",
+        "RED_430": "#E02929",
+        "RED_460": "#AF2323",
+        "GREEN_460": "#D5CFC3",
+        "BRAND_260": "#D5CFC3",
+        "BRAND_360": "#D5CFC3",
+        "RED_400": "#F83838",
+        "BRAND_500": "#D5CFC3",
+        "BRAND_560": "#D5CFC3",
+        "PLUM_13": "#D5CFC3",
+        "PLUM_14": "#32312C",
+        "PLUM_15": "#D5CFC3",
+        "PLUM_16": "#32312C",
+        "PLUM_17": "#32312C",
+        "PLUM_18": "#32312C",
+        "PLUM_19": "#D5CFC3",
+        "PLUM_20": "#32312C",
+        "PLUM_22": "#32312C",
+        "PLUM_24": "#32312C",
+        "PRIMARY_500": "#32312C",
+        "PRIMARY_600": "#32312C",
+        "PRIMARY_660": "#32312C",
+        "PRIMARY_700": "#32312C",
+        "PRIMARY_800": "#32312C"
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#D5CFC3"
+    }
+}
