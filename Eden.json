@@ -74,13 +74,13 @@
             "#0C0C0D"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#8C8373"
+            "#756A57"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#8C8373"
+            "#756A57"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#8C8373"
+            "#756A57"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#B6A991"
@@ -107,7 +107,7 @@
             "#B6A991"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#8C8373"
+            "#756A57"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
             "#B6A991"
@@ -160,19 +160,19 @@
         "GREEN_430": "#B6A991",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
-        "GREEN_460": "#8C8373",
+        "GREEN_460": "#756A57",
         "BRAND_260": "#B6A991",
         "BRAND_360": "#B6A991",
         "RED_400": "#F83838",
         "BRAND_500": "#B6A991",
-        "BRAND_560": "#8C8373",
+        "BRAND_560": "#756A57",
         "PLUM_13": "#B6A991",
         "PLUM_14": "#1D1D21",
         "PLUM_15": "#B6A991",
         "PLUM_16": "#1D1D21",
         "PLUM_17": "#141413",
         "PLUM_18": "#101011",
-        "PLUM_19": "#8C8373",
+        "PLUM_19": "#756A57",
         "PLUM_20": "#080807",
         "PLUM_22": "#141413",
         "PLUM_24": "#191919",
