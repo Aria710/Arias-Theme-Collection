@@ -20,7 +20,7 @@
             "#8c8c8c12"
         ],
         "BACKGROUND_PRIMARY": [
-            "#050709"
+            "#000305"
         ],
         "BACKGROUND_SECONDARY": [
             "#0A0A0F"
@@ -29,13 +29,13 @@
             "#4F7DED15"
         ],
         "BG_BASE_TERTIARY": [
-            "#050709"
+            "#000305"
         ],
         "BG_BASE_PRIMARY": [
-            "050709"
+            "000305"
         ],
         "BG_BASE_SECONDARY": [
-            "050709"
+            "000305"
         ],
         "BG_BRAND": [
             "#4F7DED95"
@@ -173,7 +173,7 @@
         "PLUM_17": "#090A0F",
         "PLUM_18": "#101011",
         "PLUM_19": "#173887",
-        "PLUM_20": "#050709",
+        "PLUM_20": "#000305",
         "PLUM_22": "#090A0F",
         "PLUM_24": "#191919",
         "PRIMARY_500": "#1D1D1E",
