@@ -74,10 +74,10 @@
             "#0A0A0F"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#4F7DED80"
+            "#4F7DED"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#4F7DED"
+            "#4F7DED80"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#4F7DED80"
