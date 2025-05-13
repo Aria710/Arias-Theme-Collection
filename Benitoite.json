@@ -44,7 +44,7 @@
             "#090A0F"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#04070C"
+            "#090A0F"
         ],
         "CARD_PRIMARY_BG": [
             "#090A0F"
@@ -180,7 +180,7 @@
         "PRIMARY_600": "#0b080d",
         "PRIMARY_660": "#131314",
         "PRIMARY_700": "#0A0A0F",
-        "PRIMARY_800": "#04070C"
+        "PRIMARY_800": "#090A0F"
     },
     "spec": 2,
     "plus": {
