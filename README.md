@@ -7,15 +7,7 @@ A collection of themes with colorful accents for Revenge (forked from Darkened C
 
 - Eden : https://raw.githubusercontent.com/Aria710/Arias-Theme-Collection/refs/heads/main/Eden.json
 
-
-
-
-
 --------------------------------------------------
-
-
-
-
 
 • The Original Themes:
 
