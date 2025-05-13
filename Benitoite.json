@@ -74,13 +74,13 @@
             "#0A0A0F"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#173887"
+            "#1B419D"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#173887"
+            "#1B419D"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#173887"
+            "#1B419D"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#4F7DED"
@@ -107,7 +107,7 @@
             "#4F7DED"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#173887"
+            "#1B419D"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
             "#4F7DED"
