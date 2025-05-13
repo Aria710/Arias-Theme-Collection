@@ -23,7 +23,7 @@
             "#050709"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0f0f10"
+            "#0A0A0F"
         ],
         "BACKGROUND_MENTIONED": [
             "#4F7DED15"
@@ -179,7 +179,7 @@
         "PRIMARY_500": "#1D1D1E",
         "PRIMARY_600": "#0b080d",
         "PRIMARY_660": "#131314",
-        "PRIMARY_700": "#0f0f10",
+        "PRIMARY_700": "#0A0A0F",
         "PRIMARY_800": "#0B0B0C"
     },
     "spec": 2,
