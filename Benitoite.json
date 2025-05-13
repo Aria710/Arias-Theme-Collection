@@ -80,10 +80,10 @@
             "#4F7DED80"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#FFFFFF"
+            "#4F7DED80"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#4F7DED"
+            "#FFFFFF"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
