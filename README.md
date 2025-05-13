@@ -9,7 +9,8 @@ A collection of themes with colorful accents for Revenge (forked from Darkened C
 
 
 
---------------------------------------------------• The Original Themes:
+--------------------------------------------------
+• The Original Themes:
 - Darkened Amethyst: https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json
 
 - Darkened Blood: https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Blood_min.json
