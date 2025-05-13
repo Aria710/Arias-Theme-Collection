@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#0E0E0F"
+            "#090A0F"
         ],
         "ANDROID_RIPPLE": [
             "#5B86EE24"
@@ -20,7 +20,7 @@
             "#8c8c8c12"
         ],
         "BACKGROUND_PRIMARY": [
-            "#090A0F"
+            "#06060A"
         ],
         "BACKGROUND_SECONDARY": [
             "#0f0f10"
@@ -41,16 +41,16 @@
             "#5B86EE95"
         ],
         "BG_SURFACE_RAISED": [
-            "#0E0E0F"
+            "#090A0F"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
             "#0B0B0C"
         ],
         "CARD_PRIMARY_BG": [
-            "#0E0E0F"
+            "#090A0F"
         ],
         "CARD_SECONDARY_BG": [
-            "#0E0E0F"
+            "#090A0F"
         ],
         "CHANNEL_ICON": [
             "#5B86EE65"
@@ -74,13 +74,13 @@
             "#0C0C0D"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#242742"
+            "#0F2457"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#242742"
+            "#0F2457"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#242742"
+            "#0F2457"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#5B86EE"
@@ -107,7 +107,7 @@
             "#5B86EE"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#242742"
+            "#0F2457"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
             "#5B86EE"
@@ -119,13 +119,13 @@
             "#5B86EE"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#0E0E0F"
+            "#090A0F"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#0E0E0F"
+            "#090A0F"
         ],
         "INPUT_BACKGROUND": [
-            "#0E0E0F"
+            "#090A0F"
         ],
         "TEXT_DANGER": [
             "#F83838"
@@ -160,21 +160,21 @@
         "GREEN_430": "#5B86EE",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
-        "GREEN_460": "#242742",
+        "GREEN_460": "#0F2457",
         "BRAND_260": "#5B86EE",
         "BRAND_360": "#5B86EE",
         "RED_400": "#F83838",
         "BRAND_500": "#5B86EE",
-        "BRAND_560": "#242742",
+        "BRAND_560": "#0F2457",
         "PLUM_13": "#5B86EE",
         "PLUM_14": "#1D1D21",
         "PLUM_15": "#5B86EE",
         "PLUM_16": "#1D1D21",
-        "PLUM_17": "#0E0E0F",
+        "PLUM_17": "#090A0F",
         "PLUM_18": "#101011",
-        "PLUM_19": "#242742",
-        "PLUM_20": "#090A0F",
-        "PLUM_22": "#0E0E0F",
+        "PLUM_19": "#0F2457",
+        "PLUM_20": "#06060A",
+        "PLUM_22": "#090A0F",
         "PLUM_24": "#191919",
         "PRIMARY_500": "#1D1D1E",
         "PRIMARY_600": "#0b080d",
